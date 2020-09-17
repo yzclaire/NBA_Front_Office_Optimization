@@ -19,6 +19,7 @@ Chances of winnings is a variable that we concern. For people who are familar wi
   * Position : at least one player for each of the 5 positions (PG, SG, SF, PF, C)
 
 
-Data sources: 
+## Data sources: 
 Player salary data: https://www.basketball-reference.com/contracts/players.html 
+
 Player performance data: https://www.basketball-reference.com/leagues/NBA_2019_advanced.html

@@ -2,6 +2,10 @@
 Optimizing basketball team performance under a salary cap
 
 
+# NBA_Front_Office_Optimization
+Optimizing basketball team performance under a salary cap
+
+
 ## Project Goal
 Optimize NBA salary cap allocation for a NBA franchise to maximize team performance (winning games) subject to budget constraints imposed by the salary cap.
 
@@ -17,6 +21,13 @@ Chances of winnings is a variable that we concern. For people who are familar wi
   * Salary cap : $102M 
   * Roster size : min 8, max 17 
   * Position : at least one player for each of the 5 positions (PG, SG, SF, PF, C)
+
+## Interest Findings:
+- The top 3 players in Win Shares showed up frequently in our optimal lineups (Giannis, Rudy G, Harden)
+    * Giannis and Harden were the top 2 MVP vote getters as well
+- Our models tended to pick a few super stars(expensive players) and supplement the roster with unknown(less expensive) players
+- The Win Share based models leaned towards picking more center-position players while our second model incorporating all 3 statistics picked a more positionally-balanced roster
+- The Free Agent model picked the top 4 available free agents in Win Shares
 
 
 ## Data sources: 

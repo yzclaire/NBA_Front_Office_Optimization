@@ -1,6 +1,7 @@
 # NBA_Front_Office_Optimization
 Optimizing basketball team performance under a salary cap
 
+Project [Link](https://yzclaire.github.io/NBA_Front_Office_Optimization/)
 
 ## Project Goal
 Optimize NBA salary cap allocation for a NBA franchise to maximize team performance (winning games) subject to budget constraints imposed by the salary cap.
